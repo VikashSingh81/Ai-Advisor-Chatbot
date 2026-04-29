@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
