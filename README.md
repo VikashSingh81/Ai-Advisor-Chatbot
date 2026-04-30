@@ -30,7 +30,6 @@ It provides structured responses based on different roles such as **Mentor, Deve
 
 ![Project UI](./screenshots/img.png)
 
-> 📌 Make sure you create a folder named **screenshots** and add your images inside it.
 
 ---
 
